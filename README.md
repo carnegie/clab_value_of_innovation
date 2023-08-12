@@ -12,9 +12,10 @@ The paper will be published on ERL.
 
 ========================================================================
 
-These following folders are included:
+The following folders are included:
 
 (1) Model_codes folder includes the COIN model that is used to run different scenarios; 
 
-(2) Postprocess folder includes Python codes that were used to calculate numbers and make plots.
+(2) Postprocess folder includes Python codes that were used to calculate numbers and make plots;
 
+(3) Raw_model_outputs folder includes the COIN model outputs used for our analysis. 
