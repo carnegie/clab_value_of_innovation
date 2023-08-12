@@ -19,3 +19,5 @@ The following folders are included:
 (2) Postprocess folder includes Python codes that were used to calculate numbers and make plots;
 
 (3) Raw_model_outputs folder includes the COIN model outputs used for our analysis. 
+
+The DOI to these materials is: [![DOI](https://zenodo.org/badge/608207967.svg)](https://zenodo.org/badge/latestdoi/608207967)
